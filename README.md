@@ -1,8 +1,5 @@
-# Kasa Jurnali
+# Kasa Jurnali taşındı
 
-Yatlar ve küçük işletmeler için kasa defteri — iPhone uygulaması ve Windows programının güncellemeleri.
+Kasa Jurnali'nin yeni adresi: **https://kasajurnali.github.io**
 
-- iPhone: Safari'de **https://alperkaptan22.github.io** adresini açın › Paylaş › **Ana Ekrana Ekle**
-- Windows: [KasaJurnali-Kurulum.exe](https://alperkaptan22.github.io/guncelleme/KasaJurnali-Kurulum.exe)
-
-Bu depo yalnızca yayımlanan dosyaları içerir. © 2026 Kasa Jurnali. Tüm hakları saklıdır.
+Bu depo yalnızca eski adresi yeni adrese yönlendirmek ve kurulu programların güncellemeleri yeni adresten almasını sağlamak için tutulur.
